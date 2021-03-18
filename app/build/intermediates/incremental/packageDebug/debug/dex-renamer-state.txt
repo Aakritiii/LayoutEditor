@@ -1,0 +1,4 @@
+#Tue Mar 16 21:16:22 NPT 2021
+base.0=C\:\\Users\\HP\\AndroidStudioProjects\\android-fundamentals-apps-v2\\HelloToastChallenge\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
