@@ -1,0 +1,6 @@
+me/mahakagg/helloconstraintHW/BuildConfig.java
+ me.mahakagg.helloconstraintHW.BuildConfig
+helloconstraintHW/SecondActivity.java
+ me.mahakagg.helloconstraintHW.SecondActivity
+helloconstraintHW/MainActivity.java
+ me.mahakagg.helloconstraintHW.MainActivity
