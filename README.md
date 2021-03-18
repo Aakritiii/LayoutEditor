@@ -1,3 +1,3 @@
 # LayoutChallenge
-![](CodingChallenge.png)
+![](CodingChallenge.png) 
 ![](TheLayoutEditor.png)
